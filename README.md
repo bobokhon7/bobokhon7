@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
 
 <p float="left">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="100" />
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="100" /> 
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="50%" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="50%" /> 
  
 </p>
 
