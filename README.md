@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I love to travel, learn new skills
 
 <p float="row">
-  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500" />
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" /> 
+  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="450" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="450" /> 
  
 </p>
 
