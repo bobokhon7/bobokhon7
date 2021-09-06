@@ -7,15 +7,15 @@
 - 👨‍💻 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
-<img align="right" alt="GIF" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 <br/>
 
-<br/>
-<br/>
+### Enjoy 🎧:
 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
