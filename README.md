@@ -8,17 +8,23 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
 
+<p float="left">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="100" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="100" /> 
+ 
+</p>
+
 <!-- 
 <br/>
 <br/> -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" /> -->
 
 
 <!-- 
 <!-- ### Enjoy 🎧: -->
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=false" width="50%" height="320" />
+<!-- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=false" width="50%" height="320" /> -->
 
 <br/>
 <br/> -->
