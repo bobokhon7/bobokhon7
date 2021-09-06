@@ -57,5 +57,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=boboxon&theme=redical)
 
-
+[website]: https://bobokhon.netlify.app/home
+[instagram]: https://www.instagram.com/boboxon_rajabov/  
+[linkedin]: https://linkedin.com/in/bobokhon
 
