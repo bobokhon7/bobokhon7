@@ -9,9 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|![](https://github-readme-stats.vercel.app/api?username=boboxon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=boboxon&layout=compact&hide=css,html,php&theme=tokyonight&langs_count=10)|
+|-|-|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boboxon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boboxon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://activity-graph.herokuapp.com/graph?username=boboxon&theme=redical)
 
 
 
