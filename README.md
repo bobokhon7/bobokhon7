@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
 
-<p float="left">
+<p float="row">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="50%" />
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="50%" /> 
  
