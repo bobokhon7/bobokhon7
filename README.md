@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a Front-End Developer 
 - 👨‍💻 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more projects 
+- 🥅 2022 Goals: Contribute more projects 
 - ⚡ Fun fact: I love to travel and learn new skills
 
 <p float="row">
