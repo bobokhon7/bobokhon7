@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a Front-End Developer 
 - 👨‍💻 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more projects 
+- 🥅 2024 Goals: Contribute more projects 
 - ⚡ Fun fact: I love to travel and learn new skills
 
 <p float="row">
@@ -68,7 +68,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=bobokhon7&theme=redical)
 
-[website]: https://bobokhon.netlify.app/
-[instagram]: https://www.instagram.com/boboxon_rajabov/  
+[website]: https://bobokhon.tech/
+[instagram]: https://www.instagram.com/bobokhon_rajabov/  
 [linkedin]: https://linkedin.com/in/bobokhon
 
